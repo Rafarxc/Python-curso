@@ -1,2 +1,0 @@
-# Python-curso
-Aprendizado Python
